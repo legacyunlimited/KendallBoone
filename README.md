@@ -1,6 +1,6 @@
 <!------------------------------------- Header / Intro --------------------------------------------->
 
-<h1 align='center' paddingBottom="-10px"> 🏖  Hi Emojis
+<h1 align='center' paddingBottom="-10px"> 🏖  Hi 
 👋🏿, I'm Kendall... Welcome to my GitHub!  👨🏿‍💻 </h1>
 <p align='center'>
   
